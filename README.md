@@ -48,3 +48,11 @@ export default tseslint.config({
   },
 })
 ```
+# To start 
+
+After using `git clone`
+
+```bash
+npm i
+npm run dev
+```
